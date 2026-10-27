@@ -27,4 +27,4 @@
 ```sh
 git init
 git config --list
-git congig --global yser.email
+git congig --global yser.email " yuseong999999@gmail.com"
