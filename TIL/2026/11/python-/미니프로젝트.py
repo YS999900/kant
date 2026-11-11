@@ -343,7 +343,7 @@ def main():
 
 # 프로그램 실행
 if __name__ == "__main__":
-main()
+    main()
 
 # cart.add_item(item_3, 3)
 # cart.add_item(item_2, 2)
